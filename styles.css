@@ -81,3 +81,13 @@ body{
 .content-details{
     display: block;
 }
+
+.design-name{
+    display: block;
+
+}
+.design-name, .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
