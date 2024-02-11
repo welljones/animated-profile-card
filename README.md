@@ -1,1 +1,1 @@
-An animated mini profile card that contains HTML and CSS.
+An animated mini profile card of myself using HTML and CSS.
