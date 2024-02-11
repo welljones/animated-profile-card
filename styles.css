@@ -81,3 +81,9 @@ body{
 .content-details{
     display: block;
 }
+.content-details, 
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
