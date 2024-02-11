@@ -77,3 +77,7 @@ body{
     justify-content: center;
     align-items: flex-end;
 }
+
+.content-details{
+    display: block;
+}
