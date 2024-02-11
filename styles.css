@@ -91,3 +91,12 @@ body{
     justify-content: center;
     align-items: center;
 }
+.btn{
+    width: 150px;
+    height: 150%;
+}
+.followers{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
